@@ -1,0 +1,5 @@
+
+class calculate{
+  int? num;
+
+}
